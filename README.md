@@ -49,7 +49,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot-1.png)
-![Screenshot 2](/path/to/screenshot-2.png)
+![Screenshot 1](img/server_no_clients.png)
+![Screenshot 2](img/cclient_1.png)
+![Screenshot 3](img/clients_2.png)
 
 Insert relevant screenshots of the program in action to provide visual context and help users understand the application better.
