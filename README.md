@@ -12,7 +12,7 @@ This program implements vector clocks as logical clocks between server and clien
 
 2. Install the necessary dependencies:
 
-   ```bash
+   ```bash  
    pip install -r requirements.txt
    ```
 
@@ -50,7 +50,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Screenshots
 
 ![Screenshot 1](img/server_no_clients.png)
-![Screenshot 2](img/cclient_1.png)
-![Screenshot 3](img/clients_2.png)
+![Screenshot 2](img/client2.png)
+![Screenshot 3](img/cclient_1.png)
+![Screenshot 4](img/clients_2.png)
 
 Insert relevant screenshots of the program in action to provide visual context and help users understand the application better.
