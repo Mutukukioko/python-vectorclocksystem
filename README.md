@@ -7,7 +7,7 @@ This program implements vector clocks as logical clocks between server and clien
 1. Clone the repository:
 
    ```bash
-https://github.com/Mutukukioko/python-vectorclocksystem.git
+   https://github.com/Mutukukioko/python-vectorclocksystem.git
 ```
 
 2. Install the necessary dependencies:
